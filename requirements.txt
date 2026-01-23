@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+httpx
+
+cryptography==45.0.4
+PyJWT>=2.1.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.0.1
+
+motor
+odmantic
+python-dotenv
